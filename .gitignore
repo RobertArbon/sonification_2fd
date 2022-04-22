@@ -1,0 +1,5 @@
+*.mid
+*.xtc
+*.gro
+*.pdb
+.ipynb_checkpoints/
